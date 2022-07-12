@@ -2,9 +2,9 @@
 
 ## Info
 
-Daniel Presas
-100699431
-daniel.presas@ontariotechu.net
+Daniel Presas\
+100699431\
+daniel.presas@ontariotechu.net\
 CSCI2020U - Software Systems Development and Integration
 
 ## How to run
